@@ -68,3 +68,5 @@ GET     /api/v1/tours/:id
 POST    /api/v1/tours/:id
 ```
 
+[API Documentation](https://documenter.getpostman.com/view/15326970/UzXKWJtS#93f51348-7923-4d5f-85b4-36000ce71724)
+
