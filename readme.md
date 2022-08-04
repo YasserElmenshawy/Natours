@@ -43,7 +43,7 @@ DELETE   /api/v1/users/:id
 DELETE   /api/v1/users/me
 ```
 
-###Authentication
+### Authentication
 ```
 POST    /api/v1/users/signup
 POST    /api/v1/users/login
